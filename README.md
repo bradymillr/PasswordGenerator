@@ -1,5 +1,5 @@
 # Password Generator
-This is a password generator that will generate a password of any desired length and tell you how many brute force guesses it would roughly guess to crack.
+This is a password generator that will generate a password of any desired length and tell you how many brute force guesses it would roughly take to crack.
 
 ## Important
 This is a very basic password generator, and the estimate of strength is not a direct indicator of pure password strength, but mere probability.
